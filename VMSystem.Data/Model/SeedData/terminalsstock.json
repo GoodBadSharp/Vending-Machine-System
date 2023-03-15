@@ -1,0 +1,42 @@
+[
+	{
+	  "Terminal_id": 1,
+	  "Product_id": "TUNS",
+	  "Product_quantity": 10
+	},
+  {
+    "Terminal_id": 1,
+    "Product_id": "VEGS",
+    "Product_quantity": 8
+  },
+  {
+    "Terminal_id": 1,
+    "Product_id": "SHRS",
+    "Product_quantity": 5
+  },
+  {
+    "Terminal_id": 1,
+    "Product_id": "BOLS",
+    "Product_quantity": 0
+  },
+  {
+    "Terminal_id": 2,
+    "Product_id": "TUNS",
+    "Product_quantity": 0
+  },
+  {
+    "Terminal_id": 2,
+    "Product_id": "SHRS",
+    "Product_quantity": 5
+  },
+  {
+    "Terminal_id": 2,
+    "Product_id": "SALR",
+    "Product_quantity": 10
+  },
+  {
+    "Terminal_id": 2,
+    "Product_id": "ONIG",
+    "Product_quantity": 10
+  }
+]

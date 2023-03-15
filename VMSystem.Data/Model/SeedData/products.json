@@ -1,0 +1,26 @@
+[
+	{
+	"id": "TUNS",
+	"Name": "Tuna Sandwich"
+	},
+	{
+	"id": "SHRS",
+	"Name": "Shrimp Sandwich"
+	},
+	{
+	"id": "BOLS",
+	"Name": "Bologna Sandwich"
+	},
+	{
+	"id": "VEGS",
+	"Name": "Veggie Sandwich"
+	},
+	{
+	"id": "SALR",
+	"Name": "Salmon rolls"
+	},
+	{
+	"id": "ONIG",
+	"Name": "Onigiri"
+	}
+]

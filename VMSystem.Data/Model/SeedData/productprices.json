@@ -1,0 +1,50 @@
+[
+  {
+    "Date": "2017.09.01",
+    "Product_id": "TUNS",
+    "Selling_price": 90,
+    "Purchase_price": 20
+  },
+  {
+    "Date": "2017.09.01",
+    "Product_id": "VEGS",
+    "Selling_price": 60,
+    "Purchase_price": 10
+  },
+  {
+    "Date": "2017.09.01",
+    "Product_id": "SHRS",
+    "Selling_price": 90,
+    "Purchase_price": 20
+  },
+  {
+    "Date": "2017.09.01",
+    "Product_id": "BOLS",
+    "Selling_price": 75,
+    "Purchase_price": 20
+  },
+  {
+    "Date": "2017.09.01",
+    "Product_id": "SALR",
+    "Selling_price": 95,
+    "Purchase_price": 20
+  },
+  {
+    "Date": "2017.09.01",
+    "Product_id": "ONIG",
+    "Selling_price": 110,
+    "Purchase_price": 25
+  },
+  {
+    "Date": "2017.09.15",
+    "Product_id": "TUNS",
+    "Selling_price": 110,
+    "Purchase_price": 22
+  },
+  {
+    "Date": "2017.09.15",
+    "Product_id": "SHRS",
+    "Selling_price": 110,
+    "Purchase_price": 22
+  }
+]

@@ -1,0 +1,36 @@
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\VMSystem.Data.dll.config
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\VMSystem.Data.dll
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\VMSystem.Data.pdb
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\EntityFramework.dll
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\EntityFramework.xml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.csprojResolveAssemblyReference.cache
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.Migrations.ModifiedCreditNoCustomIDs.resources
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.Migrations.InitialMigration.resources
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.Migrations.CustomCreditID.resources
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.Migrations.CustomProductID.resources
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.csproj.GenerateResource.Cache
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.csproj.CoreCompileInputs.cache
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.dll
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.pdb
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\VMSystem.Data.dll.config
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\VMSystem.Data.dll
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\VMSystem.Data.pdb
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\EntityFramework.dll
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\EntityFramework.xml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.csprojResolveAssemblyReference.cache
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.Migrations.ModifiedCreditNoCustomIDs.resources
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.Migrations.InitialMigration.resources
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.Migrations.CustomCreditID.resources
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.Migrations.CustomProductID.resources
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.csproj.GenerateResource.Cache
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.csproj.CoreCompileInputs.cache
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.dll
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.Data\obj\Debug\VMSystem.Data.pdb

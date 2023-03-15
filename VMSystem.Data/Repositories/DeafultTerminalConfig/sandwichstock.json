@@ -1,0 +1,18 @@
+[
+	{
+	  "Product_id": "TUNS",
+	  "Product_quantity": 10
+    },
+  {
+    "Product_id": "VEGS",
+    "Product_quantity": 15
+  },
+  {
+    "Product_id": "SHRS",
+    "Product_quantity": 10
+  },
+  {
+    "Product_id": "BOLS",
+    "Product_quantity": 10
+  }
+]

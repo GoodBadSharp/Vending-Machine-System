@@ -1,0 +1,60 @@
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.UI.exe.config
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.UI.exe
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.UI.pdb
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\EntityFramework.dll
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.Data.dll
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\Newtonsoft.Json.dll
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.Data.pdb
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.Data.dll.config
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\EntityFramework.xml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\Newtonsoft.Json.xml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.csprojResolveAssemblyReference.cache
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\MainWindow.g.cs
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\ProductsPage.g.cs
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\StatsPage.g.cs
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\TerminalsPage.g.cs
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\App.g.cs
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI_MarkupCompile.cache
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI_MarkupCompile.lref
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\MainWindow.baml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\ProductsPage.baml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\StatsPage.baml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\TerminalsPage.baml
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.g.resources
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.Properties.Resources.resources
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.csproj.GenerateResource.Cache
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.csproj.CoreCompileInputs.cache
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.exe
+D:\Tigran\Misc\C# Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.pdb
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.UI.exe.config
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.UI.exe
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.UI.pdb
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\EntityFramework.dll
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.Data.dll
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.Data.pdb
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\VMSystem.Data.dll.config
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\EntityFramework.xml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\bin\Debug\Newtonsoft.Json.xml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.csprojResolveAssemblyReference.cache
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\MainWindow.g.cs
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\ProductsPage.g.cs
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\StatsPage.g.cs
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\TerminalsPage.g.cs
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\App.g.cs
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI_MarkupCompile.cache
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI_MarkupCompile.lref
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\MainWindow.baml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\ProductsPage.baml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\StatsPage.baml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\Pages\TerminalsPage.baml
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.g.resources
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.Properties.Resources.resources
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.csproj.GenerateResource.Cache
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.csproj.CoreCompileInputs.cache
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.exe
+D:\Data\Misc\Programming\Projects\VMSystem\VMSystem.UI\obj\Debug\VMSystem.UI.pdb

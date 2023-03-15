@@ -1,0 +1,140 @@
+[
+  {
+    "Date_purchased": "2017.09.10",
+    "Product_id": "TUNS",
+    "Terminal_id": 1,
+    "Quantity_sold": 3
+  },
+  {
+    "Date_purchased": "2017.09.10",
+    "Product_id": "VEGS",
+    "Terminal_id": 1,
+    "Quantity_sold": 1
+  },
+  {
+    "Date_purchased": "2017.09.11",
+    "Product_id": "SHRS",
+    "Terminal_id": 1,
+    "Quantity_sold": 2
+  },
+  {
+    "Date_purchased": "2017.09.12",
+    "Product_id": "BOLS",
+    "Terminal_id": 1,
+    "Quantity_sold": 4
+  },
+  {
+    "Date_purchased": "2017.09.12",
+    "Product_id": "ONIG",
+    "Terminal_id": 2,
+    "Quantity_sold": 1
+  },
+  {
+    "Date_purchased": "2017.09.12",
+    "Product_id": "SHRS",
+    "Terminal_id": 2,
+    "Quantity_sold": 3
+  },
+  {
+    "Date_purchased": "2017.09.13",
+    "Product_id": "TUNS",
+    "Terminal_id": 2,
+    "Quantity_sold": 2
+  },
+  {
+    "Date_purchased": "2017.09.12",
+    "Product_id": "SHRS",
+    "Terminal_id": 1,
+    "Quantity_sold": 1
+  },
+  {
+    "Date_purchased": "2017.09.12",
+    "Product_id": "VEGS",
+    "Terminal_id": 1,
+    "Quantity_sold": 2
+  },
+  {
+    "Date_purchased": "2017.09.15",
+    "Product_id": "TUNS",
+    "Terminal_id": 1,
+    "Quantity_sold": 2
+  },
+  {
+    "Date_purchased": "2017.09.15",
+    "Product_id": "SHRS",
+    "Terminal_id": 1,
+    "Quantity_sold": 2
+  },
+  {
+    "Date_purchased": "2017.09.15",
+    "Product_id": "VEGS",
+    "Terminal_id": 1,
+    "Quantity_sold": 1
+  },
+  {
+    "Date_purchased": "2017.09.15",
+    "Product_id": "TUNS",
+    "Terminal_id": 2,
+    "Quantity_sold": 2
+  },
+  {
+    "Date_purchased": "2017.09.16",
+    "Product_id": "SHRS",
+    "Terminal_id": 2,
+    "Quantity_sold": 1
+  },
+  {
+    "Date_purchased": "2017.09.16",
+    "Product_id": "SALR",
+    "Terminal_id": 2,
+    "Quantity_sold": 2
+  },
+  {
+    "Date_purchased": "2017.09.20",
+    "Product_id": "TUNS",
+    "Terminal_id": 1,
+    "Quantity_sold": 1
+  },
+  {
+    "Date_purchased": "2017.09.25",
+    "Product_id": "TUNS",
+    "Terminal_id": 2,
+    "Quantity_sold": 4
+  },
+  {
+    "Date_purchased": "2017.10.02",
+    "Product_id": "BOLS",
+    "Terminal_id": 1,
+    "Quantity_sold": 3
+  },
+  {
+    "Date_purchased": "2017.10.03",
+    "Product_id": "TUNS",
+    "Terminal_id": 1,
+    "Quantity_sold": 2
+  },
+  {
+    "Date_purchased": "2017.10.03",
+    "Product_id": "SALR",
+    "Terminal_id": 2,
+    "Quantity_sold": 1
+  },
+  {
+    "Date_purchased": "2017.10.03",
+    "Product_id": "SHRS",
+    "Terminal_id": 2,
+    "Quantity_sold": 1
+  },
+  {
+    "Date_purchased": "2017.10.03",
+    "Product_id": "TUNS",
+    "Terminal_id": 2,
+    "Quantity_sold": 1
+  },
+  {
+    "Date_purchased": "2017.10.04",
+    "Product_id": "ONIG",
+    "Terminal_id": 2,
+    "Quantity_sold": 1
+  }
+]
